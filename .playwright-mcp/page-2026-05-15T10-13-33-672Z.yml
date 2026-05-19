@@ -1,0 +1,329 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - region "Notifications (F8)":
+      - list
+    - region "Notifications alt+T"
+    - generic [ref=e3]:
+      - navigation [ref=e4]:
+        - generic [ref=e5]:
+          - button "Stojanka Mirković" [ref=e6] [cursor=pointer]
+          - generic [ref=e7]:
+            - button "Home" [ref=e8] [cursor=pointer]
+            - button "About" [ref=e9] [cursor=pointer]
+            - button "Why English" [ref=e10] [cursor=pointer]
+            - button "Lessons" [ref=e11] [cursor=pointer]
+            - button "Gallery" [ref=e12] [cursor=pointer]
+            - button "Testimonials" [ref=e13] [cursor=pointer]
+            - button "Contact" [ref=e14] [cursor=pointer]
+          - generic [ref=e15]:
+            - generic [ref=e16]:
+              - button "EN" [ref=e17] [cursor=pointer]
+              - button "SR" [ref=e18] [cursor=pointer]
+              - button "СР" [ref=e19] [cursor=pointer]
+            - button "Toggle dark mode" [ref=e20] [cursor=pointer]:
+              - img [ref=e21]
+      - generic [ref=e26]:
+        - heading "Unlock the World Through English" [level=1] [ref=e27]
+        - paragraph [ref=e28]: Professional English lessons for all ages — in Bijeljina, Novi Sad, or online from anywhere.
+        - generic [ref=e29]:
+          - button "Get in Touch" [ref=e30] [cursor=pointer]
+          - button "Learn More" [ref=e31] [cursor=pointer]
+      - generic [ref=e33]:
+        - heading "About the Teacher" [level=2] [ref=e34]
+        - generic [ref=e35]:
+          - generic [ref=e36]:
+            - img "Stojanka Mirković — English Teacher" [ref=e37]
+            - paragraph [ref=e38]: Stojanka Mirković is a dedicated English language teacher with years of experience helping students of all ages achieve fluency and confidence. Whether you're a young beginner or a professional seeking to refine your skills, Stojanka creates a personalised and supportive learning environment tailored to your goals.
+            - paragraph [ref=e39]: In-person lessons available in Bijeljina and Novi Sad. Remote lessons available worldwide — we'll agree on a platform that works for you.
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - generic [ref=e42]:
+                - img [ref=e43]
+                - link "+387 65 709 211" [ref=e45] [cursor=pointer]:
+                  - /url: tel:+38765709211
+              - generic [ref=e46]:
+                - img [ref=e47]
+                - link "mirkovic.stojanka@yahoo.com" [ref=e50] [cursor=pointer]:
+                  - /url: mailto:mirkovic.stojanka@yahoo.com
+              - generic [ref=e51]:
+                - generic [ref=e52]:
+                  - link "Viber" [ref=e53] [cursor=pointer]:
+                    - /url: viber://chat?number=%2B38765709211
+                  - link "WhatsApp" [ref=e54] [cursor=pointer]:
+                    - /url: https://wa.me/38765709211
+                - generic [ref=e55]: Also available on Viber and WhatsApp
+            - generic [ref=e56]:
+              - generic [ref=e57]:
+                - generic [ref=e58]:
+                  - img [ref=e59]
+                  - text: Bijeljina, Bosnia and Herzegovina
+                - iframe [ref=e62]:
+                  - link "Maps (opens in new tab)" [ref=f1e4] [cursor=pointer]:
+                    - /url: about:invalid#zClosurez
+                    - text: Maps
+                    - img [ref=f1e6]
+              - generic [ref=e63]:
+                - generic [ref=e64]:
+                  - img [ref=e65]
+                  - text: Novi Sad, Serbia
+                - iframe [ref=e68]:
+                  - link "Maps (opens in new tab)" [ref=f2e4] [cursor=pointer]:
+                    - /url: about:invalid#zClosurez
+                    - text: Maps
+                    - img [ref=f2e6]
+      - generic [ref=e70]:
+        - heading "Why English Matters" [level=2] [ref=e71]
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - img [ref=e76]
+              - heading "Global Communication" [level=3] [ref=e79]
+              - paragraph [ref=e80]: English connects you with over 1.5 billion speakers worldwide, opening doors to international friendships and collaboration.
+            - generic [ref=e81]:
+              - img [ref=e83]
+              - heading "Career Advancement" [level=3] [ref=e86]
+              - paragraph [ref=e87]: Most international companies require English proficiency. Mastering it gives you a competitive edge in the job market.
+            - generic [ref=e88]:
+              - img [ref=e90]
+              - heading "Education & Knowledge" [level=3] [ref=e93]
+              - paragraph [ref=e94]: The majority of academic papers, books, and online resources are in English — it's the language of learning.
+            - generic [ref=e95]:
+              - img [ref=e97]
+              - heading "Travel & Culture" [level=3] [ref=e99]
+              - paragraph [ref=e100]: English makes travelling easier and opens doors to global culture, entertainment, and new experiences.
+          - generic:
+            - img "People communicating in English worldwide"
+      - generic [ref=e102]:
+        - heading "Lessons & Services" [level=2] [ref=e103]
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - img [ref=e107]
+            - heading "Elementary School" [level=3] [ref=e109]
+            - generic [ref=e110]: Ages 6–14
+            - paragraph [ref=e111]: Fun, engaging lessons for young learners (ages 6–14). Building vocabulary, basic grammar, and confidence through creative activities.
+            - generic [ref=e112]:
+              - generic [ref=e113]:
+                - img [ref=e114]
+                - text: In-person — Bijeljina
+              - generic [ref=e117]:
+                - img [ref=e118]
+                - text: In-person — Novi Sad
+              - generic [ref=e121]:
+                - img [ref=e122]
+                - text: Remote (Worldwide)
+          - generic [ref=e124]:
+            - img [ref=e126]
+            - heading "High School" [level=3] [ref=e131]
+            - generic [ref=e132]: Ages 15–19
+            - paragraph [ref=e133]: Exam preparation, essay writing, conversational practice, and advanced grammar for students seeking academic excellence.
+            - generic [ref=e134]:
+              - generic [ref=e135]:
+                - img [ref=e136]
+                - text: In-person — Bijeljina
+              - generic [ref=e139]:
+                - img [ref=e140]
+                - text: In-person — Novi Sad
+              - generic [ref=e143]:
+                - img [ref=e144]
+                - text: Remote (Worldwide)
+          - generic [ref=e146]:
+            - img [ref=e148]
+            - heading "Adults & Professionals" [level=3] [ref=e151]
+            - generic [ref=e152]: Ages 20+
+            - paragraph [ref=e153]: Business English, conversational fluency, writing skills, and tailored programmes for any personal or professional goal.
+            - generic [ref=e154]:
+              - generic [ref=e155]:
+                - img [ref=e156]
+                - text: In-person — Bijeljina
+              - generic [ref=e159]:
+                - img [ref=e160]
+                - text: In-person — Novi Sad
+              - generic [ref=e163]:
+                - img [ref=e164]
+                - text: Remote (Worldwide)
+      - generic [ref=e167]:
+        - heading "Learning Moments" [level=2] [ref=e168]
+        - generic [ref=e169]:
+          - generic [ref=e171]:
+            - img "Young children learning English with their teacher in a fun classroom setting" [ref=e173]
+            - img "Teenagers working together on English exercises" [ref=e175]
+            - img "One-on-one English tutoring session" [ref=e177]
+            - img "Elementary school children learning the English alphabet" [ref=e179]
+            - img "Adult professional improving business English skills" [ref=e181]
+            - img "Group conversation practice with teenagers" [ref=e183]
+          - button "Previous" [ref=e184] [cursor=pointer]:
+            - img [ref=e185]
+          - button "Next" [ref=e187] [cursor=pointer]:
+            - img [ref=e188]
+          - generic [ref=e190]:
+            - button "Go to slide 1" [ref=e191] [cursor=pointer]
+            - button "Go to slide 2" [ref=e193] [cursor=pointer]
+            - button "Go to slide 3" [ref=e195] [cursor=pointer]
+            - button "Go to slide 4" [ref=e197] [cursor=pointer]
+            - button "Go to slide 5" [ref=e199] [cursor=pointer]
+            - button "Go to slide 6" [ref=e201] [cursor=pointer]
+      - generic [ref=e204]:
+        - heading "What Our Students Say" [level=2] [ref=e205]
+        - generic [ref=e206]:
+          - generic [ref=e208]:
+            - generic [ref=e210]:
+              - generic [ref=e211]:
+                - img [ref=e213]
+                - generic [ref=e216]:
+                  - paragraph [ref=e217]: Marko Petrović
+                  - paragraph [ref=e218]: High School Student
+              - generic [ref=e219]:
+                - img [ref=e220]
+                - img [ref=e222]
+                - img [ref=e224]
+                - img [ref=e226]
+                - img [ref=e228]
+              - paragraph [ref=e230]: "\"Thanks to Stojanka, I went from barely passing English to being one of the best in my class. Her patience and creative teaching methods made all the difference.\""
+            - generic [ref=e232]:
+              - generic [ref=e233]:
+                - img [ref=e235]
+                - generic [ref=e238]:
+                  - paragraph [ref=e239]: Jelena Kovačević
+                  - paragraph [ref=e240]: Parent
+              - generic [ref=e241]:
+                - img [ref=e242]
+                - img [ref=e244]
+                - img [ref=e246]
+                - img [ref=e248]
+                - img [ref=e250]
+              - paragraph [ref=e252]: "\"My daughter started lessons with Stojanka two years ago and now she speaks English with such confidence. I couldn't be happier with the progress.\""
+            - generic [ref=e254]:
+              - generic [ref=e255]:
+                - img [ref=e257]
+                - generic [ref=e260]:
+                  - paragraph [ref=e261]: Nikola Stanković
+                  - paragraph [ref=e262]: University Student
+              - generic [ref=e263]:
+                - img [ref=e264]
+                - img [ref=e266]
+                - img [ref=e268]
+                - img [ref=e270]
+                - img [ref=e272]
+              - paragraph [ref=e274]: "\"I needed to prepare for an English proficiency exam and Stojanka's structured approach helped me score higher than I ever expected.\""
+            - generic [ref=e276]:
+              - generic [ref=e277]:
+                - img [ref=e279]
+                - generic [ref=e282]:
+                  - paragraph [ref=e283]: Ana Đurić
+                  - paragraph [ref=e284]: Working Professional
+              - generic [ref=e285]:
+                - img [ref=e286]
+                - img [ref=e288]
+                - img [ref=e290]
+                - img [ref=e292]
+                - img [ref=e294]
+              - paragraph [ref=e296]: "\"Stojanka helped me improve my business English, which directly contributed to my promotion. Her lessons are practical and perfectly tailored to your needs.\""
+            - generic [ref=e298]:
+              - generic [ref=e299]:
+                - img [ref=e301]
+                - generic [ref=e304]:
+                  - paragraph [ref=e305]: Milica Jovanović
+                  - paragraph [ref=e306]: High School Student
+              - generic [ref=e307]:
+                - img [ref=e308]
+                - img [ref=e310]
+                - img [ref=e312]
+                - img [ref=e314]
+                - img [ref=e316]
+              - paragraph [ref=e318]: "\"English used to be my least favourite subject, but Stojanka's lessons changed that completely. Now I actually look forward to using English every day.\""
+            - generic [ref=e320]:
+              - generic [ref=e321]:
+                - img [ref=e323]
+                - generic [ref=e326]:
+                  - paragraph [ref=e327]: Stefan Vasić
+                  - paragraph [ref=e328]: Parent
+              - generic [ref=e329]:
+                - img [ref=e330]
+                - img [ref=e332]
+                - img [ref=e334]
+                - img [ref=e336]
+                - img [ref=e338]
+              - paragraph [ref=e340]: "\"Both of my kids attend lessons with Stojanka. She knows how to keep them engaged and make learning feel like fun, not a chore.\""
+          - button "Previous" [ref=e341] [cursor=pointer]:
+            - img [ref=e342]
+          - button "Next" [ref=e344] [cursor=pointer]:
+            - img [ref=e345]
+          - generic [ref=e347]:
+            - button "Go to testimonial 1" [ref=e348] [cursor=pointer]
+            - button "Go to testimonial 2" [ref=e350] [cursor=pointer]
+            - button "Go to testimonial 3" [ref=e352] [cursor=pointer]
+            - button "Go to testimonial 4" [ref=e354] [cursor=pointer]
+            - button "Go to testimonial 5" [ref=e356] [cursor=pointer]
+            - button "Go to testimonial 6" [ref=e358] [cursor=pointer]
+      - generic [ref=e361]:
+        - heading "Get in Touch" [level=2] [ref=e362]
+        - generic [ref=e363]:
+          - generic [ref=e364]:
+            - generic [ref=e365]: Full Name *
+            - textbox "Full Name *" [ref=e366]
+          - generic [ref=e367]:
+            - generic [ref=e368]: Email Address
+            - textbox "Email Address" [ref=e369]
+          - generic [ref=e370]:
+            - generic [ref=e371]: Phone Number
+            - generic [ref=e372]:
+              - button "+387" [ref=e374] [cursor=pointer]:
+                - generic [ref=e376]: "+387"
+                - img [ref=e377]
+              - textbox "Phone Number" [ref=e379]
+          - generic [ref=e380]:
+            - generic [ref=e381]: Your Message *
+            - textbox "Your Message *" [ref=e382]
+          - generic [ref=e383]:
+            - generic [ref=e384]:
+              - generic [ref=e385]: Preferred Date
+              - button "Pick a date..." [ref=e386] [cursor=pointer]:
+                - img
+                - generic [ref=e387]: Pick a date...
+            - generic [ref=e388]:
+              - generic [ref=e389]: Preferred Time of Day
+              - combobox "Preferred Time of Day" [ref=e390]:
+                - option "Select a time..." [selected]
+                - option "Morning (08:00–12:00)"
+                - option "Afternoon (12:00–17:00)"
+                - option "Evening (17:00–21:00)"
+          - paragraph [ref=e391]: The teacher may suggest an alternative time if the requested slot is unavailable.
+          - button "Send Message" [ref=e392] [cursor=pointer]
+      - contentinfo [ref=e393]:
+        - generic [ref=e394]:
+          - generic [ref=e395]:
+            - generic [ref=e396]:
+              - heading "Stojanka Mirković" [level=3] [ref=e397]
+              - paragraph [ref=e398]: English Lessons
+            - generic [ref=e399]:
+              - heading "Quick Links" [level=4] [ref=e400]
+              - navigation [ref=e401]:
+                - button "Home" [ref=e402] [cursor=pointer]
+                - button "About" [ref=e403] [cursor=pointer]
+                - button "Why English" [ref=e404] [cursor=pointer]
+                - button "Lessons" [ref=e405] [cursor=pointer]
+                - button "Gallery" [ref=e406] [cursor=pointer]
+                - button "Testimonials" [ref=e407] [cursor=pointer]
+                - button "Contact" [ref=e408] [cursor=pointer]
+            - generic [ref=e409]:
+              - generic [ref=e410]:
+                - img [ref=e411]
+                - link "+387 65 709 211" [ref=e413] [cursor=pointer]:
+                  - /url: tel:+38765709211
+              - generic [ref=e414]:
+                - img [ref=e415]
+                - link "mirkovic.stojanka@yahoo.com" [ref=e418] [cursor=pointer]:
+                  - /url: mailto:mirkovic.stojanka@yahoo.com
+              - generic [ref=e419]:
+                - link "Viber" [ref=e420] [cursor=pointer]:
+                  - /url: viber://chat?number=%2B38765709211
+                - link "WhatsApp" [ref=e421] [cursor=pointer]:
+                  - /url: https://wa.me/38765709211
+          - paragraph [ref=e423]: © 2026 Stojanka Mirković — English Lessons. All rights reserved.
+  - complementary "Edit with Lovable" [ref=e424]:
+    - link "Edit with Lovable" [ref=e425] [cursor=pointer]:
+      - /url: https://lovable.dev/projects/8d844b7c-e51d-48aa-9819-e87aabe5e874?utm_source=lovable-badge
+      - generic [ref=e426]: Edit with
+      - img [ref=e427]
+    - button "Dismiss" [ref=e432] [cursor=pointer]:
+      - img [ref=e433]

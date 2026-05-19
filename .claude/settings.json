@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git config *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "WebFetch(domain:engleskisastojankom.lovable.app)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(node -e \"JSON.parse\\(require\\('fs'\\).readFileSync\\('.mcp.json','utf8'\\)\\); console.log\\('valid'\\)\")",
+      "mcp__playwright__browser_navigate",
+      "Bash(Get-ChildItem -Path \"c:\\\\Projects\\\\english_ats\\\\tests\\\\\" -File)",
+      "Edit(/.claude/skills/playwright-test-authoring/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Jovana\\.claude"
+    ]
+  }
+}

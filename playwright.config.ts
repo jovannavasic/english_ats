@@ -8,8 +8,7 @@ export default defineConfig({
   workers: process.env.CI ? 1 : undefined,
   reporter: 'html',
   use: {
-    // baseURL will be set once the target website is known
-    // baseURL: 'https://example.com',
+    baseURL: 'https://engleskisastojankom.lovable.app',
     screenshot: 'only-on-failure',
     trace: 'on-first-retry',
   },
