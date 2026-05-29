@@ -52,12 +52,22 @@ Switching language changes all visible text on the page.
 
 | Field | Type | Required |
 |---|---|---|
-| Full Name | text input | yes (*) |
-| Email Address | email input | no |
-| Phone Number | text input (+387 prefix) | no |
-| Message | textarea | yes (*) |
+| Full Name | text input | yes (*) — min 2 chars |
+| Email Address | email input | conditional — email **or** phone required |
+| Phone Number | text input (+387 prefix) | conditional — email **or** phone required |
+| Your Message | textarea | yes (*) — min 10 chars |
 | Preferred Date | date picker ("Pick a date...") | no |
 | Preferred Time of Day | dropdown | no |
+
+> The message field's accessible name is **"Your Message *"** (not "Message").
+> Validation is client-side (react-hook-form) with inline error paragraphs:
+> - `Name must be at least 2 characters.`
+> - `Message must be at least 10 characters.`
+> - `Please provide either an email address or a phone number.`
+>
+> Submission POSTs to a Supabase edge function (`/functions/v1/send-contact`)
+> that emails the real teacher — **always mock it** in tests (`page.route`).
+> Success toast: `Thank you! Your message has been sent. Stojanka will get back to you soon.`
 
 **Time of Day options:**
 - Morning (08:00–12:00)
